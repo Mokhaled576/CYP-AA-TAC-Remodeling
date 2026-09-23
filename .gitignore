@@ -1,0 +1,36 @@
+# R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Large data and intermediate objects
+*.rds
+*.RDS
+*.h5
+*.h5ad
+*.h5seurat
+*.mtx
+*.mtx.gz
+*.loom
+*.qs
+*.fst
+
+# GEO/raw data
+data/raw/
+data/downloads/
+RAW_DATA/
+raw_data/
+
+# Temporary/output cache
+cache/
+tmp/
+temp/
+__pycache__/
+.DS_Store
+Thumbs.db
+
+# Office/temp files
+~$*.docx
+~$*.xlsx
+~$*.pptx
