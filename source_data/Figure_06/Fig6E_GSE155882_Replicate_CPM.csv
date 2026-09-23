@@ -1,0 +1,17 @@
+"Sample","Condition","Gene","CPM"
+"Sham1","Sham","Cyp1b1",25.177
+"Sham1","Sham","Cyp4f13",15.393
+"Sham1","Sham","Cyp4f18",11.836
+"Sham1","Sham","Ephx2",5.815
+"Sham2","Sham","Cyp1b1",26.653
+"Sham2","Sham","Cyp4f13",12.109
+"Sham2","Sham","Cyp4f18",15.043
+"Sham2","Sham","Ephx2",8.115
+"TAC1","TAC","Cyp1b1",41.018
+"TAC1","TAC","Cyp4f13",11.334
+"TAC1","TAC","Cyp4f18",19.37
+"TAC1","TAC","Ephx2",5.157
+"TAC2","TAC","Cyp1b1",28.506
+"TAC2","TAC","Cyp4f13",11.243
+"TAC2","TAC","Cyp4f18",20.458
+"TAC2","TAC","Ephx2",7.004
