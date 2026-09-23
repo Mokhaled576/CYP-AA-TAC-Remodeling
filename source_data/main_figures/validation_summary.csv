@@ -1,0 +1,9 @@
+gene,GSE155882,GSE270896
+Cyp1b1,increase_supported,replicate_inconsistent
+Cyp2j6,replicate_inconsistent,modest_decrease
+Cyp2j9,replicate_inconsistent,replicate_inconsistent
+Cyp4f13,decrease_supported,modest_decrease
+Cyp4f16,replicate_inconsistent,replicate_inconsistent
+Cyp4f17,not_robustly_evaluable,modest_decrease
+Cyp4f18,increase_supported,replicate_inconsistent
+Ephx2,decrease_supported,robust_decrease
