@@ -1,0 +1,17 @@
+"Gene","Dataset","Evidence","Score"
+"Cyp1b1","GSE155882","Increase supported",1
+"Cyp1b1","GSE270896","Replicate inconsistent",0
+"Cyp2j6","GSE155882","Replicate inconsistent",0
+"Cyp2j6","GSE270896","Modest decrease",-1
+"Cyp2j9","GSE155882","Replicate inconsistent",0
+"Cyp2j9","GSE270896","Replicate inconsistent",0
+"Cyp4f13","GSE155882","Decrease supported",-1
+"Cyp4f13","GSE270896","Modest decrease",-1
+"Cyp4f16","GSE155882","Replicate inconsistent",0
+"Cyp4f16","GSE270896","Replicate inconsistent",0
+"Cyp4f17","GSE155882","Not evaluable",NA
+"Cyp4f17","GSE270896","Modest decrease",-1
+"Cyp4f18","GSE155882","Increase supported",1
+"Cyp4f18","GSE270896","Replicate inconsistent",0
+"Ephx2","GSE155882","Decrease supported",-1
+"Ephx2","GSE270896","Robust decrease",-1
