@@ -1,2 +1,5 @@
-check,value
-sum_percent_each_condition,100
+"Condition","Total_cells","Sum_percent"
+"Sham",7578,100
+"2W",6051,100
+"4W",6374,100
+"6W",5183,100
