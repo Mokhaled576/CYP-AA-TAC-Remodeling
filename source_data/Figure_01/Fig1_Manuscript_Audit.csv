@@ -1,6 +1,13 @@
-item,value
-n_cells_total,25186
-n_conditions,4
-n_clusters,29
-n_broad_cell_types,15
-n_refined_cell_types,23
+"Item","Value"
+"Input_RDS","D:/Master/ScRNA seq/TAC/CLEAN DATA/11D_C_FINAL_CORRECTED_ANNOTATED_ATLAS.rds"
+"Cells","25186"
+"Condition_metadata","timepoint"
+"Condition_order","Sham -> 2W -> 4W -> 6W"
+"Condition_counts","7578 / 6051 / 6374 / 5183"
+"Broad_annotation","corrected_broad_cell_type"
+"Broad_categories","15"
+"Refined_annotation","corrected_refined_cell_type"
+"Refined_categories","23"
+"UMAP_reduction","umap.unintegrated"
+"UMAP_recomputed","NO"
+"Composition_inference","Descriptive only; no condition-level inferential statistics"
