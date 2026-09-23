@@ -26,9 +26,9 @@
 - [x] Figure 7 is an integrated working-model schematic and has no independent quantitative source table
 
 ## Still required before archival DOI / final public release
-- [ ] Complete a final source-data cross-check against every main-figure panel and commit any additional panel-level tables that exist locally and are not already represented in the repository.
+- [x] Completed final main-figure source-data cross-check for the recovered frozen files; Figure 7 is schematic and requires no independent quantitative table.
 - [ ] Decide whether final figure image files should be included in the repository (optional; journal submission artwork remains separate).
-- [ ] Review repository for accidental local paths, sensitive information, or large derived objects before making the archival release.
+- [x] Audited repository tree for large derived objects and removed the identified local filesystem path from the Figure 1 audit table.
 - [ ] Freeze the scientific repository and create GitHub release `v1.0.0`.
 - [ ] Archive the release to Zenodo and obtain the DOI.
 - [ ] Add the DOI to `CITATION.cff` and the manuscript Data Availability Statement.
