@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this repository, please cite the associated manuscript."
 title: "CYP-AA-TAC-Remodeling"
 type: software
-version: 1.0.0
+version: 1.0.1
 date-released: 2026-09-23
 authors:
   - family-names: "Abd El-Aziz"
@@ -12,3 +12,4 @@ authors:
 repository-code: "https://github.com/Mokhaled576/CYP-AA-TAC-Remodeling"
 abstract: "Code, gene sets, annotations, source-data tables, and reproducibility materials for analysis of cellular and spatial remodeling of the cytochrome P450–arachidonic acid axis during pressure-overload cardiac remodeling."
 license: MIT
+doi: "10.5281/zenodo.22912931"
