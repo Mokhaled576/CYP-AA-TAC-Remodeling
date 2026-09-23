@@ -1,0 +1,11 @@
+modality,condition,n
+scRNA,Sham,7578
+scRNA,TAC_2W,6051
+scRNA,TAC_4W,6374
+scRNA,TAC_6W,5183
+spatial,Sham,1657
+spatial,TAC_2W,2040
+spatial,TAC_4W,1212
+spatial,TAC_6W,2170
+validation_GSE155882,final_singlets,28388
+validation_GSE270896,final_nuclei_cells,15747
