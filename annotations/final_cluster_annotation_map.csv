@@ -1,0 +1,30 @@
+Cluster,Corrected_Broad,Corrected_Refined,Annotation_Confidence,Validation_Source
+0,Fibroblasts,Fibroblasts,High,11D-A + 11D-B1 + 11D-B2
+1,Macrophages,Macrophages,High,11D-A + 11D-B1 + 11D-B2
+2,B cells,B cells,Very high,11D-A + 11D-B1 + 11D-B2
+3,Fibroblasts,Fibroblasts,High,11D-A + 11D-B1 + 11D-B2
+4,Fibroblasts,Fibroblasts,High,11D-A + 11D-B1 + 11D-B2
+5,Macrophages,Resident macrophages,Very high,11D-A + 11D-B1 + 11D-B2
+6,Fibroblasts,Activated fibroblasts,Very high,11D-A + 11D-B1 + 11D-B2
+7,Neutrophils,Inflammatory neutrophils,Very high,11D-A + 11D-B1 + 11D-B2
+8,Endothelial cells,Capillary endothelial cells,Very high,11D-A + 11D-B1 + 11D-B2
+9,B cells,B cells,High,11D-A + 11D-B1 + 11D-B2
+10,Fibroblasts,Fibroblasts,Very high,11D-A + 11D-B1 + 11D-B2 + 11D-B3
+11,Fibroblasts,Fibroblasts,Very high,11D-A + 11D-B1 + 11D-B2
+12,Platelets,Platelets/megakaryocytes,Very high,11D-A + 11D-B1 + 11D-B2
+13,T cells,T cells,Very high,11D-A + 11D-B1 + 11D-B2
+14,NK cells,NK/cytotoxic lymphocytes,Very high,11D-A + 11D-B1 + 11D-B2
+15,Fibroblasts,Fibroblasts,High,11D-A + 11D-B1 + 11D-B2
+16,Myeloid cells,Cycling myeloid cells,High,11D-A + 11D-B1 + 11D-B2 + 11D-B3
+17,Monocytes,Monocytes,Very high,11D-A + 11D-B1 + 11D-B2
+18,Endothelial cells,Endothelial cells,High,11D-A + 11D-B1 + 11D-B2
+19,Dendritic cells,Dendritic cells,High,11D-A + 11D-B1 + 11D-B2 + 11D-B3
+20,Neutrophils,Neutrophils,Very high,11D-A + 11D-B1 + 11D-B2
+21,Endothelial cells,Arterial endothelial cells,Very high,11D-A + 11D-B1 + 11D-B2
+22,Cardiomyocytes,Cardiomyocytes,Very high,11D-A + 11D-B1 + 11D-B2
+23,Erythroid cells,Erythroid cells,Very high,11D-A + 11D-B1 + 11D-B2
+24,Smooth muscle cells,Vascular smooth muscle cells,Very high,11D-A + 11D-B1 + 11D-B2 + 11D-B3
+25,T cells,Gamma-delta T cells,Very high,11D-A + 11D-B1 + 11D-B2
+26,T cells,Immature T cells,Very high,11D-A + 11D-B1 + 11D-B2
+27,Pericytes,Pericytes,Very high,11D-A + 11D-B1 + 11D-B2
+28,B cells,Immature B cells,High,11D-A + 11D-B1 + 11D-B2
