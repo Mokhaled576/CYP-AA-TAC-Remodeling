@@ -1,0 +1,33 @@
+{
+  "title": "CYP-AA-TAC-Remodeling expanded cross-cohort analyses",
+  "version": "2.0.0",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "mit",
+  "creators": [
+    {
+      "name": "Abd El-Aziz, Mostafa K.",
+      "affiliation": "University of Alberta"
+    },
+    {
+      "name": "El-Kadi, Ayman O. S.",
+      "affiliation": "University of Alberta"
+    }
+  ],
+  "description": "Expanded supporting analysis scripts and result tables for cellular and spatial CYP and EPHX2 expression during cardiac pressure overload. Includes discovery diagnostics, independent mouse and human transcriptomics, mouse proteomics and three-week lipidomics. Observational support and non-replication are reported. Raw downloads, processed Seurat objects and journal submission documents are excluded. Original preparation code is retained; complete clean-room reproduction has not been verified. Source data retain their original terms.",
+  "keywords": [
+    "cardiac remodeling",
+    "cytochrome P450",
+    "EPHX2",
+    "pressure overload",
+    "single cell",
+    "spatial transcriptomics"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Mokhaled576/CYP-AA-TAC-Remodeling",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ]
+}
