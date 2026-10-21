@@ -18,4 +18,4 @@ The earlier three datasets are GSE308859, GSE155882 and GSE270896. Added cohorts
 
 Code retains the existing MIT license. Third-party datasets retain their original source rights and terms; the code license does not relicense those datasets. Source information and acquisition records accompany the data. AI assistance with code and manuscript preparation is disclosed in the manuscript; human scientific verification remains required.
 
-The earlier archive https://doi.org/10.5281/zenodo.22912931 contains version v1.0.1 and does not contain this expansion. A new exact-version DOI must be verified after the v2.0.0 archive is created.
+The earlier archive https://doi.org/10.5281/zenodo.22912931 contains version v1.0.1 and does not contain this expansion. The complete v2.0.0 archive, including these code and table ZIPs, is published and verified at https://doi.org/10.5281/zenodo.23525836. Cite that exact version for the expanded analysis.
