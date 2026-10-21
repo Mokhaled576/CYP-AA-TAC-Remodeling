@@ -12,3 +12,4 @@ authors:
 repository-code: "https://github.com/Mokhaled576/CYP-AA-TAC-Remodeling"
 abstract: "Code, gene sets, annotations, source-data tables, and reproducibility materials for analysis of cellular and spatial remodeling of the cytochrome P450–arachidonic acid axis during pressure-overload cardiac remodeling."
 license: MIT
+doi: "10.5281/zenodo.23525836"
